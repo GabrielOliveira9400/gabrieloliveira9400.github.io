@@ -37,26 +37,26 @@ nav a {
     padding: 5px;
 }
 
-section {
+main {
     background: #e8e8d9;
     padding: 10px;
 }
 
-section > h1.title {
+main > h1.title {
     color: #828271;
     font-size: 25px;
 }
 
-section > p.content {
+main > p.content {
     text-align: justify;
     text-indent: 40px;
 }
 
-section > div.imgs {
+main > div.imgs {
     text-align: center;
 }
 
-section > div.imgs > img.img-campanha {
+main > div.imgs > img.img-campanha {
     border: solid 10px #c3c3ae;
     margin: 0 auto;
 }
